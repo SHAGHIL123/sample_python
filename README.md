@@ -1,1 +1,3 @@
-# sample_python
+# Python Projects
+
+## 1. Inventory Management System
